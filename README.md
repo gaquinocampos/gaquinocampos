@@ -39,9 +39,7 @@ Hello everyone, my name is Guilherme Campos; I am studying Software Engineering 
 
 ## Activity: 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gaquinocampos/snake-output/output/snake.svg" alt="Snake animation">
-</p>
+
 
 ## Notices:
 
