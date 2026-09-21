@@ -1,5 +1,5 @@
 Linguagem: *Português-Brasil* |
-.[English](README.md) 
+[English](README.md) 
 
 
 # Olá!
