@@ -5,7 +5,7 @@
 ## Current Language: *English* | If you wish to change the language, click on the following READMEs.
 
 <p align="center">
-  <a href="README.PT-BR.md">Português-Brasil</a> • 
+  <a href="README.PT-BR.md">Brazilian-Portuguese</a> • 
   <a href="README.ES.md">Spanish</a> • 
   <a href="README.FR.md">French</a> • 
   <a href="README.IT.md">Italian</a> • 
@@ -15,7 +15,8 @@
 ##
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExang1OG4yazlrMWQ0ZnF2Y2U3NDE5bm4xaGptc2QxNzBsb2huNWY0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EyiufcIwTdF35pNIFS/giphy.gif"  />
+  <img data-importer="image" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWcxYnFtY3FudzBzczFsdmU3a2hsNGFqOG9tODkzMTZnZGo2aXVndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1pnyedVM1ZW5P4fzGw/giphy.gif" />
+  <p>"Eu tenho um plano!"</p>
 </div>
 
 # Bio
