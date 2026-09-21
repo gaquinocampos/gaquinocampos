@@ -39,7 +39,13 @@ Hello everyone, my name is Guilherme Campos; I am studying Software Engineering 
 
 ## Activity: 
 
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gaquinocampos/gaquinocampos/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gaquinocampos/gaquinocampos/output/github-contribution-grid-snake.svg">
+    <img alt="github snake animation" src="https://raw.githubusercontent.com/gaquinocampos/gaquinocampos/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ## Notices:
 
