@@ -5,18 +5,20 @@
 ## Текущий язык: *Русский* | Если вы хотите изменить язык, нажмите на соответствующий README.
 
 <p align="center">
-  <a href="README.md">English</a> • 
-  <a href="README.PT-BR.md">Português-Brasil</a> • 
-  <a href="README.ES.md">Spanish</a> • 
-  <a href="README.FR.md">French</a> • 
-  <a href="README.IT.md">Italian</a>
+  <a href="README.md">Английский</a> • 
+  <a href="README.PT-BR.md">Португальский-Бразилия</a> • 
+  <a href="README.ES.md">Испанский</a> • 
+  <a href="README.FR.md">Французский</a> • 
+  <a href="README.IT.md">Итальянский</a>
 </p>
 
 ##
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExang1OG4yazlrMWQ0ZnF2Y2U3NDE5bm4xaGptc2QxNzBsb2huNWY0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EyiufcIwTdF35pNIFS/giphy.gif"  />
+  <img data-importer="image" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWcxYnFtY3FudzBzczFsdmU3a2hsNGFqOG9tODkzMTZnZGo2aXVndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1pnyedVM1ZW5P4fzGw/giphy.gif" />
+  <p>"У меня есть план!"</p>
 </div>
+
 
 # Биография
 
