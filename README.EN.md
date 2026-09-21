@@ -1,3 +1,7 @@
+Language: *English* | 
+[Português-Brasil](README.PT-BR.md) 
+
+
 # Hi!
 
 Hello everyone, my name is Guilherme Campos; I am studying Software Engineering at the Universidade Cidade de São Paulo (UNICID). I look forward to sharing my future projects with everyone!
