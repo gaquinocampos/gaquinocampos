@@ -1,7 +1,7 @@
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
-
+ 
 ## Current Language: *English* | If you wish to change the language, click on the following READMEs.
 
 <p align="center">
@@ -31,7 +31,7 @@ Hello everyone, my name is Guilherme Campos; I am studying Software Engineering 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
+    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
@@ -39,14 +39,12 @@ Hello everyone, my name is Guilherme Campos; I am studying Software Engineering 
 
 ## Activity: 
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/gaquinocampos/snake-output/snake.svg" alt="Snake animation" />
-           
-## Contacts:
-<div>
-<a href="https://www.linkedin.com/in/guilherme-campos-" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gaquinocampos/snake-output/output/snake.svg" alt="Snake animation">
+</p>
 
 ## Notices:
+
 As a collaborator on the Personal Pisos project, via the Julia Lafaelly profile.
 
 
