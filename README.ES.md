@@ -5,17 +5,18 @@
 ## Idioma actual: *Español* | Si deseas cambiar de idioma, haz clic en los siguientes README.
 
 <p align="center">
-  <a href="README.md">English</a> • 
-  <a href="README.PT-BR.md">Português-Brasil</a> • 
-  <a href="README.FR.md">French</a> • 
-  <a href="README.IT.md">Italian</a> • 
-  <a href="README.RU.md">Russian</a>
+  <a href="README.md">Inglés</a> • 
+  <a href="README.PT-BR.md">Portugués brasileño</a> • 
+  <a href="README.FR.md">Francés</a> • 
+  <a href="README.IT.md">Italiano</a> • 
+  <a href="README.RU.md">ruso</a>
 </p>
 
 ##
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExang1OG4yazlrMWQ0ZnF2Y2U3NDE5bm4xaGptc2QxNzBsb2huNWY0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EyiufcIwTdF35pNIFS/giphy.gif"  />
+  <img data-importer="image" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWcxYnFtY3FudzBzczFsdmU3a2hsNGFqOG9tODkzMTZnZGo2aXVndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1pnyedVM1ZW5P4fzGw/giphy.gif" />
+  <p>"¡Tengo un plan!"</p>
 </div>
 
 # Biografía
