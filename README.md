@@ -16,7 +16,7 @@
 
 <div data-importer="image" align="center">
   <img data-importer="image" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWcxYnFtY3FudzBzczFsdmU3a2hsNGFqOG9tODkzMTZnZGo2aXVndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1pnyedVM1ZW5P4fzGw/giphy.gif" />
-  <p>"Eu tenho um plano!"</p>
+  <p>"I have a plan!!"</p>
 </div>
 
 # Bio
