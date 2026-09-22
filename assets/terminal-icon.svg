@@ -9,23 +9,24 @@
     <text x="25" y="48">╰─$ Github</text>
 
 
-  <g fill="#ffffff">
-      <text x="165" y="78">.cs####sc.</text>
-      <text x="145" y="92">c##########s</text>
-      <text x="138" y="106">c##s######s##s</text>
-      <text x="132" y="120">c############c</text>
-      <text x="138" y="134">c##s######s##s</text>
-      <text x="145" y="148">s##########s</text>
-      <text x="160" y="162">`cs####sc`</text>
-      <text x="194" y="176">...</text>
-      <text x="155" y="190">*ccsssssscc*</text>
-      <text x="145" y="204">.cs########as.</text>
-      <text x="105" y="218">.s##hs######sh##s.</text>
-      <text x="95" y="232">c#################c</text>
-      <text x="95" y="246">s#################s</text>
-      <text x="95" y="260">c#################c</text>
-      <text x="95" y="274">`#################`</text>
+    <g fill="#ffffff">
+      <text x="25" y="78">      .cs####sc.</text>
+      <text x="25" y="92">     c##########s</text>
+      <text x="25" y="106">    c##s######s##s</text>
+      <text x="25" y="120">   c############c</text>
+      <text x="25" y="134">   c##s######s##s</text>
+      <text x="25" y="148">    s##########s</text>
+      <text x="25" y="162">     `cs####sc`</text>
+      <text x="25" y="176">        ...</text>
+      <text x="25" y="190">     *ccsssssscc*</text>
+      <text x="25" y="204">  .cs########as.</text>
+      <text x="25" y="218"> .s##hs######sh##s.</text>
+      <text x="25" y="232">c#################c</text>
+      <text x="25" y="246">s#################s</text>
+      <text x="25" y="260">c#################c</text>
+      <text x="25" y="274">`#################`</text>
     </g>
+
 
 
     <text x="25" y="225">╭─[ Software Engineering ]</text>
