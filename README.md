@@ -1,29 +1,45 @@
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+<div data-importer="border" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=flat">
+    <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
+  </picture>
 </div>
- 
-## Current Language: *English* | If you wish to change the language, click on the following READMEs.
 
-<p align="center">
+
+<h2 align="center"><samp>Current Language: English | Change language:</samp></h2>
+</p>
+
+<p align="center"><samp>
   <a href="README.PT-BR.md">Brazilian-Portuguese</a> • 
   <a href="README.ES.md">Spanish</a> • 
   <a href="README.FR.md">French</a> • 
   <a href="README.IT.md">Italian</a> • 
   <a href="README.RU.md">Russian</a>
-</p>
+</p></samp>
   
 ##
 
 <div data-importer="image" align="center">
   <img data-importer="image" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWcxYnFtY3FudzBzczFsdmU3a2hsNGFqOG9tODkzMTZnZGo2aXVndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1pnyedVM1ZW5P4fzGw/giphy.gif" />
-  <p>"I have a plan!!"</p>
+  <br></br>
+  <samp><p>"I have a plan!!"</p></samp>
 </div>
 
-# Bio
+##
 
-Hello everyone, my name is Guilherme Campos; I am studying Software Engineering at the Universidade Cidade de São Paulo (UNICID). I look forward to sharing my future projects with everyone!
+<h1 align="center"><samp>Bio</samp></h1>
 
-## Technologies & Tools:
+<div align="center">
+  <samp>
+  Hello everyone, my name is Guilherme Campos; I am studying Software Engineering at the<br>
+  Universidade Cidade de São Paulo (UNICID). I look forward to sharing my future projects with everyone!
+  </samp>
+</div>
+
+<br>
+
+<h1 align="center"><samp>Technologies</samp></h1>
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
   <img width="12" />
@@ -38,7 +54,8 @@ Hello everyone, my name is Guilherme Campos; I am studying Software Engineering 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
-## Activity: 
+##
+<h1 align="center"><samp>Activity</samp></h1>
 
 <p align="center">
   <picture>
@@ -48,9 +65,9 @@ Hello everyone, my name is Guilherme Campos; I am studying Software Engineering 
   </picture>
 </p>
 
-## Notices:
+##
+<h1 align="center"><samp>Notices</samp></h1>
 
-As a collaborator on the Personal Pisos project, via the Julia Lafaelly profile.
-
+<samp>As a collaborator on the Personal Pisos project, via the Julia Lafaelly profile.</samp>
 
 
