@@ -27,18 +27,18 @@
 </div>
 
 ##
-
 <h1 align="center"><samp>Bio</samp></h1>
 
-<div align="center">
+
+<div align="center"><br>
   <samp>
   Hello everyone, my name is Guilherme Campos; I am studying Software Engineering at the<br>
   Universidade Cidade de São Paulo (UNICID). I look forward to sharing my future projects with everyone!
   </samp>
 </div>
+</br>
 
-<br>
-
+##
 <h1 align="center"><samp>Technologies</samp></h1>
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
