@@ -29,7 +29,7 @@
 
 <h1 align="center"><samp>Sobre mim</samp></h1>
 
-<div align="center">
+<div align="center"><br>
   <samp>
   Olá a todos, meu nome é Guilherme Campos; estou cursando Engenharia de Software na<br>
   Universidade Cidade de São Paulo (UNICID). Espero compartilhar meus futuros projetos com todos!
@@ -38,6 +38,7 @@
 
 <br>
 
+##
 <h1 align="center"><samp>Tecnologias</samp></h1>
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
