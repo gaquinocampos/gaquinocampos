@@ -29,7 +29,7 @@
 
 <h1 align="center"><samp>Обо мне</samp></h1>
 
-<div align="center">
+<div align="center"><br>
   <samp>
   Всем привет, меня зовут Гильерме Кампос; я изучаю разработку программного обеспечения в<br>
   Университете города Сан-Паулу (UNICID). Я с нетерпением жду возможности поделиться своими будущими проектами со всеми!
@@ -38,6 +38,7 @@
 
 <br>
 
+##
 <h1 align="center"><samp>Технологии</samp></h1>
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
