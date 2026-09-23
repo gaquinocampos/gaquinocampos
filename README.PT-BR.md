@@ -10,7 +10,7 @@
 </p>
 
 <p align="center"><samp>
-  <a href="README.PT-BR.md">Português-Brasileiro</a> • 
+  <a href="README.md">Inglês</a> • 
   <a href="README.ES.md">Espanhol</a> • 
   Futuramente outros idiomas.
 </p></samp>
