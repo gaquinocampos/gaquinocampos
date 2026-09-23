@@ -13,9 +13,7 @@
 <p align="center"><samp>
   <a href="README.PT-BR.md">Brazilian-Portuguese</a> • 
   <a href="README.ES.md">Spanish</a> • 
-  <a href="README.FR.md">French</a> • 
-  <a href="README.IT.md">Italian</a> • 
-  <a href="README.RU.md">Russian</a>
+  Other languages ​​in the future.
 </p></samp>
   
 ##
