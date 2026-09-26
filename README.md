@@ -63,9 +63,6 @@
   </picture>
 </p>
 
-##
-<h1 align="center"><samp>Notices</samp></h1>
 
-<samp>As a collaborator on the Personal Pisos project, via the Julia Lafaelly profile.</samp>
 
 
