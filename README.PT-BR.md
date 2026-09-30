@@ -64,8 +64,4 @@
   </picture>
 </p>
 
-##
 
-<h1 align="center"><samp>Avisos</samp></h1>
-
-<samp>Como colaborador no projeto Personal Pisos, através do perfil Julia Lafaelly.</samp>
