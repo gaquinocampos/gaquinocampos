@@ -29,23 +29,25 @@
   
 ##
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWcxYnFtY3FudzBzczFsdmU3a2hsNGFqOG9tODkzMTZnZGo2aXVndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1pnyedVM1ZW5P4fzGw/giphy.gif" />
-  <br></br>
-  <samp><p>"I have a plan!!"</p></samp>
-</div>
-
-##
-<h1 align="center"><samp>Bio</samp></h1>
-
-
-<div align="center"><br>
-  <samp>
-  Hello everyone, my name is Guilherme Campos; I am studying Software Engineering at the<br>
-  Universidade Cidade de São Paulo (UNICID). I look forward to sharing my future projects with everyone!
-  </samp>
-</div>
-</br>
+<table>
+  <tr>
+    <td width="65%" valign="middle">
+      <h2>BIO</h2>
+      <samp>
+        Hello everyone, my name is Guilherme Campos; I am studying Software Engineering at the Universidade Cidade de São Paulo (UNICID). I look forward to sharing my future projects with everyone!
+      </samp>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img
+        height="200"
+        src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWcxYnFtY3FudzBzczFsdmU3a2hsNGFqOG9tODkzMTZnZGo2aXVndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1pnyedVM1ZW5P4fzGw/giphy.gif"
+        alt="GIF do personagem"
+      />
+      <br>
+      <samp>"I have a plan!!"</samp>
+    </td>
+  </tr>
+</table>
 
 ##
 <h1 align="center"><samp>Technologies</samp></h1>
