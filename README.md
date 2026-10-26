@@ -32,7 +32,7 @@
 <table>
   <tr>
     <td width="65%" valign="middle">
-      <h2>BIO</h2>
+      <h2>Bio</h2>
       <samp>
         Hello everyone, my name is Guilherme Campos; I am studying Software Engineering at the Universidade Cidade de São Paulo (UNICID). I look forward to sharing my future projects with everyone!
       </samp>
@@ -53,6 +53,8 @@
 <h1 align="center"><samp>Technologies</samp></h1>
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
