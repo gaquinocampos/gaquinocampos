@@ -29,7 +29,7 @@
 <img width="100%" src="assets/about-card-pt (1).svg">
 
 <p align="right">
-  <a href="https://linkedin.com/in/guilherme-de-aquino-campos" target="_blank" style="text-decoration: none;">
+  <a href="https://linkedin.com/in/gaquinocampos-" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-d91311?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:gaquinocampos@gmail.com" style="text-decoration: none;">
@@ -79,5 +79,5 @@
 
 ---
 <p align="center">
-  <img src="assets/pt-br.png" width="100%" alt="en.png" style="border-radius: 8px;" />
+  <img src="assets/pt-br.png" width="100%" alt="br.png" style="border-radius: 8px;" />
 </p>
