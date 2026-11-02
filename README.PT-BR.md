@@ -42,6 +42,10 @@
   <img src="https://img.shields.io/badge/Adobe%20After%20Effects-d91311?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" alt="Adobe After Effects" />
   <img src="https://img.shields.io/badge/git-d91311?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/github-d91311?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/chat_GPT-d91311?style=for-the-badge&logo=chat_gpt&logoColor=white" alt="Chat_GPT" />
+  <img src="https://img.shields.io/badge/claude-d91311?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/gemini-d91311?style=for-the-badge&logo=gemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/manus_ai-d91311?style=for-the-badge&logo=manus_ai&logoColor=white" alt="Manus_AI" />
   <img src="https://img.shields.io/badge/bootstrap-d91311?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
