@@ -64,7 +64,16 @@
     </tr>
   </table>
 </div>
-<p align="right"><a href="#readme-top">⬆ Volver arriba</a></p>
+
+---
+
+> [!CAUTION]
+> Cambiando el README constantemente por ahora (gracias por la visita).
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=gaquinocampos&label=PROFILE+VIEWS&style=for-the-badge&labelColor=d91311&color=d91311&logoColor=white" alt="Profile views" />
+</p>
+
 
 
 ---
