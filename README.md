@@ -69,6 +69,8 @@
   </table>
 </div>
 
+<p align="right"><a href="#readme-top">⬆ Back to top</a></p>
+
 ---
 <p align="center">
   <img src="assets/en.png" width="100%" alt="en.png" style="border-radius: 8px;" />
