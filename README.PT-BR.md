@@ -13,7 +13,7 @@
 <p align="center">
   <a href="README.md" style="text-decoration: none;"><img src="https://img.shields.io/badge/Inglês-d91311?style=for-the-badge" alt="Inglês"></a>
   <a href="README.ES.md" style="text-decoration: none;"><img src="https://img.shields.io/badge/Espanhol-d91311?style=for-the-badge" alt="Espanhol"></a>
-  <img src="https://img.shields.io/badge/Outras_Linguagens_no_Futuro-333333?style=for-the-badge" alt="Outras Linguagens">
+  <img src="https://img.shields.io/badge/Outros_Idiomas_no_Futuro-333333?style=for-the-badge" alt="Outros Idiomas">
 </p>
 
 ---
@@ -38,6 +38,7 @@
   <img src="https://img.shields.io/badge/mysql-d91311?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/css3-d91311?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Notion-d91311?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  <img src="https://img.shields.io/badge/figma-d91311?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Adobe%20After%20Effects-d91311?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" alt="Adobe After Effects" />
   <img src="https://img.shields.io/badge/git-d91311?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/github-d91311?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
