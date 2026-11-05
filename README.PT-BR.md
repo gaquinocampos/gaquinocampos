@@ -70,6 +70,10 @@
 
 ---
 
+<img alt="github snake animation" src="https://raw.githubusercontent.com/gaquinocampos/gaquinocampos/output/github-contribution-grid-snake.svg">
+
+---
+
 > [!CAUTION]
 > Constantemente mudando o README por enquanto. (obrigado pela visita).
 
